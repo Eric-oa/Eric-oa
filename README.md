@@ -8,4 +8,6 @@ This GitHub is where I share my projects, document what I learn, and continue bu
  
 🛠️ Tools:  Python • SQL •  Excel • Power BI • SQL
  
-📫 Reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-onwordi-698244321) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ericonwordi@gmail.com)
+📫 Reach me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-onwordi-698244321) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ericonwordi@gmail.com)
